@@ -1,0 +1,13 @@
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PersonelKayıtProje\PersonelKayıtProje\bin\Debug\PersonelKayıtProje.exe.config
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PersonelKayıtProje\PersonelKayıtProje\bin\Debug\PersonelKayıtProje.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PersonelKayıtProje\PersonelKayıtProje\bin\Debug\PersonelKayıtProje.pdb
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PersonelKayıtProje\PersonelKayıtProje\obj\Debug\PersonelKayıtProje.csproj.AssemblyReference.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PersonelKayıtProje\PersonelKayıtProje\obj\Debug\PersonelKayıtProje.Properties.Resources.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PersonelKayıtProje\PersonelKayıtProje\obj\Debug\PersonelKayıtProje.csproj.GenerateResource.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PersonelKayıtProje\PersonelKayıtProje\obj\Debug\PersonelKayıtProje.csproj.CoreCompileInputs.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PersonelKayıtProje\PersonelKayıtProje\obj\Debug\PersonelKayıtProje.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PersonelKayıtProje\PersonelKayıtProje\obj\Debug\PersonelKayıtProje.pdb
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PersonelKayıtProje\PersonelKayıtProje\obj\Debug\PersonelKayıtProje.frmİstatistik.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PersonelKayıtProje\PersonelKayıtProje\obj\Debug\PersonelKayıtProje.frmAnasayfa.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PersonelKayıtProje\PersonelKayıtProje\obj\Debug\PersonelKayıtProje.frmGrafikler.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\PersonelKayıtProje\PersonelKayıtProje\obj\Debug\PersonelKayıtProje.frmGiris.resources
